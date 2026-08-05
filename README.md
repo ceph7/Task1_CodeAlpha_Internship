@@ -7,7 +7,8 @@
 
 > **Task 1: Wireframing & Low-Fidelity Design**
 >
-> A complete 9-screen low-fidelity wireframe set for an educational mobile application, designed to validate user flows, information architecture, and core interactions before high-fidelity prototyping.
+> Create wireframes for a mobile app or website (e.g., food delivery, e-commerce or education platform).
+Submit wireframes in Figma/Adobe XD.
 
 ---
 
