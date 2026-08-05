@@ -27,12 +27,13 @@ This repository contains the **low-fidelity wireframes** for the mobile applicat
 |---|--------|-------------|
 | 1 | **Onboarding** | Welcome flow introducing app value proposition with swipeable screens |
 | 2 | **Login** | Secure authentication with email/password and social login options |
-| 3 | **Home** | Dashboard displaying featured courses, categories, and personalized recommendations |
-| 4 | **Course Details** | Comprehensive course overview including syllabus, instructor info, ratings, and enrollment CTA |
-| 5 | **Course Video** | Video player interface with playback controls, chapter list, and progress tracking |
-| 6 | **Quiz** | Interactive assessment module with multiple-choice questions and instant feedback |
-| 7 | **Settings** | User preferences, account management, notifications, and app configuration |
-| 8 | **Progress** | Visual learning analytics showing completed courses, achievements, and skill development |
+| 3 | **Sign Up** | Secure authentication with email/password and social login options |
+| 4 | **Home** | Dashboard displaying featured courses, categories, and personalized recommendations |
+| 5 | **Course Details** | Comprehensive course overview including syllabus, instructor info, ratings, and enrollment CTA |
+| 6 | **Course Video** | Video player interface with playback controls, chapter list, and progress tracking |
+| 7 | **Quiz** | Interactive assessment module with multiple-choice questions and instant feedback |
+| 8 | **Settings** | User preferences, account management, notifications, and app configuration |
+| 9 | **Progress** | Visual learning analytics showing completed courses, achievements, and skill development |
 
 ---
 
